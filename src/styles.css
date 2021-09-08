@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+tb button {
+  width: 100%;
+}
+.egale {
+  color: black;
+  background-color: yellow;
+}
+.effacer {
+  color: black;
+  background-color: red;
+}
